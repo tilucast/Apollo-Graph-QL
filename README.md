@@ -1,4 +1,4 @@
-<img src="img/interface.png" align="center"></img>
+<img src="img.png" align="center"></img>
 
 <h1>Ibrahima Ndaw ApolloGraphQL Project</h1>
 
